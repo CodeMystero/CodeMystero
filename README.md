@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 <br>
 
-![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_academy-blue?style=flat)<br>
+![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_academy-blue?style=flat)
 ![React](https://img.shields.io/badge/King's_College_London-MSc_Data_Science-red?style=flat)<br>
 ![React](https://img.shields.io/badge/University_of_Manchester-BEng_(Hons)_Electrical_and_Electronic_Engineer-purple?style=flat)
 
