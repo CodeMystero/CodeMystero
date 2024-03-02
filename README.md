@@ -1,4 +1,9 @@
+
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=rounded&height=180&color=gradient&text=CodeMystero%20&desc=프로젝트저장소&descAlign=63&fontSize=60&descAlignY=68)
+
+</div>
 
 <!--
 **CodeMystero/CodeMystero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,20 +20,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br>
 
-#### 🛠️프로그래밍 기술
+<div align="center">
+
+#### 🧠나의 스킬 셋
 
 <!--https://simpleicons.org/?q=C-->
 <!--https://shields.io/-->
 
-<img src="https://img.shields.io/badge/C -black?style=flat&logo=C&logoColor=A8B9CC"/><img src="https://img.shields.io/badge/C++-green?style=flat&logo=cplusplus&logoColor=00599C"/><img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/><img src="https://img.shields.io/badge/SQL-white?style=flat&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/C -black?style=flat&logo=C&logoColor=A8B9CC"/><img src="https://img.shields.io/badge/C++-green?style=flat&logo=cplusplus&logoColor=00599C"/><img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/><img src="https://img.shields.io/badge/SQL-white?style=flat&logo=mysql&logoColor=4479A1"/><img src="https://img.shields.io/badge/STM32 -red?style=flat&logo=stmicroelectronics&logoColor=03234B"/><img src="https://img.shields.io/badge/arm Keil -purple?style=flat&logo=armkeil&logoColor=394049"/><img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat&logo=MATLAB&logoColor=394049"/><img src="https://img.shields.io/badge/R-yellow?style=flat&logo=r&logoColor=276DC3"/><img src="https://img.shields.io/badge/labVIEW-black?style=flat&logo=labview&logoColor=FFDB00"/>
 
-
-
-#### 🚀소프트웨어 기술술
-
-<img src="https://img.shields.io/badge/STM32 -red?style=flat&logo=stmicroelectronics&logoColor=03234B"/><img src="https://img.shields.io/badge/arm Keil -purple?style=flat&logo=armkeil&logoColor=394049"/><img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat&logo=MATLAB&logoColor=394049"/><img src="https://img.shields.io/badge/R-yellow?style=flat&logo=r&logoColor=276DC3"/><img src="https://img.shields.io/badge/labVIEW-black?style=flat&logo=labview&logoColor=FFDB00"/>
-
+</div>
 
 #### 🧑‍💼경력사항
 > 2023년, 이전의 경력을 뒤로하고 개발자가 되는 길을 택했습니다. 
