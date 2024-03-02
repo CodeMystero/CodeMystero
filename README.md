@@ -52,6 +52,8 @@ Here are some ideas to get you started:
 
 <br><br>
 
+---
+
 #### 📖논문연구
 
 ##### [Optimal sensor placement for everyday motion tracking of a neurological patient](/assets/dissertation/dissertation_KCL.pdf)
@@ -86,9 +88,4 @@ Here are some ideas to get you started:
 ---
 
 
-#### 📂기타 참고자료📂
-- [english version resume](/assets/cv/resume.pdf)
-- [Certificate in King's college London](/assets/certificate/certificate_KCL.pdf)
-- [transcript in King's college London](/assets/transcript/transcript_KCL.pdf)
-- [Certificate in University of Manchester](/assets/certificate/certificate_UOM.pdf)
-- [transcript in University of Manchester](/assets/transcript/transcript_UOM.pdf)
+
