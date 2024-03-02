@@ -21,10 +21,13 @@ Here are some ideas to get you started:
 -->
 
 <br>
+<br>
 
 <div align="center">
 
 #### 🧠나의 스킬 셋
+
+<br>
 
 <!--https://simpleicons.org/?q=C-->
 <!--https://shields.io/-->
@@ -38,6 +41,8 @@ Here are some ideas to get you started:
 <div align="center">
 
 #### 🎓교육 및 학력사항
+
+<br>
 
 ![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_academy-blue?style=flat)<br>
 ![React](https://img.shields.io/badge/King's_College_London-MSc_Data_Science-red?style=flat)<br>
