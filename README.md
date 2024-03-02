@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=300&section=header&text=CodeMystero%20&fontSize=90)](https://capsule-render.vercel.app/api?type=rounded&height=180&color=gradient&text=CodeMystero%20&desc=프로젝트저장소&descAlign=63&fontSize=60&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=180&color=gradient&text=CodeMystero%20&desc=프로젝트저장소&descAlign=63&fontSize=60&descAlignY=68)
 
 <!--
 **CodeMystero/CodeMystero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
