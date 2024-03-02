@@ -33,15 +33,19 @@ Here are some ideas to get you started:
 
 </div>
 
-#### 🧑‍💼경력사항
-> 2023년, 이전의 경력을 뒤로하고 개발자가 되는 길을 택했습니다. 
+<br><br>
 
+<div align="center">
 
-#### 🎓학력사항
-![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_academy-blue?style=flat)
-![React](https://img.shields.io/badge/King's_College_London-MSc_Data_Science-red?style=flat)
+#### 🎓교육 및 학력사항
+
+![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_academy-blue?style=flat)<br>
+![React](https://img.shields.io/badge/King's_College_London-MSc_Data_Science-red?style=flat)<br>
 ![React](https://img.shields.io/badge/University_of_Manchester-BEng_(Hons)_Electrical_and_Electronic_Engineer-purple?style=flat)
 
+</div>
+
+<br><br>
 
 #### 📖논문연구
 
