@@ -15,44 +15,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋welcome to my profile
-
-
-# Seunghwan Kim 
-
-
-#### 🛠️Programming skills🛠️
+#### 🛠️프로그래밍 기술
 
 <!--https://simpleicons.org/?q=C-->
 <!--https://shields.io/-->
 
-<img src="https://img.shields.io/badge/C -black?style=flat&logo=C&logoColor=A8B9CC"/>
-<img src="https://img.shields.io/badge/C++-green?style=flat&logo=cplusplus&logoColor=00599C"/>
-<img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/SQL-white?style=flat&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/C -black?style=flat&logo=C&logoColor=A8B9CC"/><img src="https://img.shields.io/badge/C++-green?style=flat&logo=cplusplus&logoColor=00599C"/><img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/><img src="https://img.shields.io/badge/SQL-white?style=flat&logo=mysql&logoColor=4479A1"/>
 
 
 
-#### 🚀Software skills🚀
+#### 🚀소프트웨어 기술술
 
-<img src="https://img.shields.io/badge/STM32 -red?style=flat&logo=stmicroelectronics&logoColor=03234B"/>
-<img src="https://img.shields.io/badge/arm Keil -purple?style=flat&logo=armkeil&logoColor=394049"/>
-<img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat&logo=MATLAB&logoColor=394049"/>
-<img src="https://img.shields.io/badge/R-yellow?style=flat&logo=r&logoColor=276DC3"/>
-<img src="https://img.shields.io/badge/labVIEW-black?style=flat&logo=labview&logoColor=FFDB00"/>
+<img src="https://img.shields.io/badge/STM32 -red?style=flat&logo=stmicroelectronics&logoColor=03234B"/><img src="https://img.shields.io/badge/arm Keil -purple?style=flat&logo=armkeil&logoColor=394049"/><img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat&logo=MATLAB&logoColor=394049"/><img src="https://img.shields.io/badge/R-yellow?style=flat&logo=r&logoColor=276DC3"/><img src="https://img.shields.io/badge/labVIEW-black?style=flat&logo=labview&logoColor=FFDB00"/>
 
 
-#### 🧑‍💼Career🧑‍💼
->In 2023, decided to leave behind my previous career and embarked on the path of becoming a developer. If you wish to review my past professional journey, please refer to the CV link below.
+#### 🧑‍💼경력사항
+> 2023년, 이전의 경력을 뒤로하고 개발자가 되는 길을 택했습니다. 
 
 
-#### 🎓Education🎓
+#### 🎓학력사항
 ![React](https://img.shields.io/badge/[intel]_edge_AI_S/W_academy-blue?style=flat)
 ![React](https://img.shields.io/badge/King's_College_London-MSc_Data_Science-red?style=flat)
 ![React](https://img.shields.io/badge/University_of_Manchester-BEng_(Hons)_Electrical_and_Electronic_Engineer-purple?style=flat)
 
 
-#### 📖Dissertation📖
+#### 📖논문연구
 
 ##### [Optimal sensor placement for everyday motion tracking of a neurological patient](/assets/dissertation/dissertation_KCL.pdf)
 
@@ -86,7 +73,7 @@ Here are some ideas to get you started:
 ---
 
 
-#### 📂Other docs📂
+#### 📂기타 참고자료📂
 - [english version resume](/assets/cv/resume.pdf)
 - [Certificate in King's college London](/assets/certificate/certificate_KCL.pdf)
 - [transcript in King's college London](/assets/transcript/transcript_KCL.pdf)
