@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeMystero&show_icons=true&theme=radical)
 
 #### 🛠️프로그래밍 기술
 
@@ -70,6 +69,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat&logo=MATLAB&logoColor=394049"/>
 <img src="https://img.shields.io/badge/Siemens-yellow?style=flat&logo=siemens&logoColor=009999"/>
 <img src="https://img.shields.io/badge/National_Grid-black?style=flat&logo=nationalgrid&logoColor=#00148C"/>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeMystero&show_icons=true&theme=radical)
 
 ###### [click here to see related post](/assets/dissertation/poster_UOM.pdf)
 ---
