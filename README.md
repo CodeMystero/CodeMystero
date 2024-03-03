@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <!--https://shields.io/-->
 
 <img src="https://img.shields.io/badge/C -black?style=flat&logo=C&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/C++-green?style=flat&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/SQL-white?style=flat&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/R-yellow?style=flat&logo=r&logoColor=276DC3"/>
-
+<br>
 <img src="https://img.shields.io/badge/STM32 -red?style=flat&logo=stmicroelectronics&logoColor=03234B"/> <img src="https://img.shields.io/badge/arm Keil -purple?style=flat&logo=armkeil&logoColor=394049"/> <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat&logo=MATLAB&logoColor=394049"/> <img src="https://img.shields.io/badge/labVIEW-black?style=flat&logo=labview&logoColor=FFDB00"/>
 
 
