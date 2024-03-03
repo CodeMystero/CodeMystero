@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-#### 🧠나의 스킬 셋
+### 🧠나의 스킬 셋
 
 <br>
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-#### 🎓교육 및 학력사항
+### 🎓교육 및 학력사항
 
 <br>
 
