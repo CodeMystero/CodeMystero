@@ -36,7 +36,12 @@ Here are some ideas to get you started:
 <br>
 <img src="https://img.shields.io/badge/STM32 -red?style=flat&logo=stmicroelectronics&logoColor=03234B"/> <img src="https://img.shields.io/badge/arm Keil -purple?style=flat&logo=armkeil&logoColor=394049"/> <img src="https://img.shields.io/badge/MATLAB-skyblue?style=flat&logo=MATLAB&logoColor=394049"/> <img src="https://img.shields.io/badge/labVIEW-black?style=flat&logo=labview&logoColor=FFDB00"/> [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 <br>
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&labelColor=grey)](https://www.tensorflow.org/) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)](https://opencv.org/) [![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros)](https://index.ros.org/doc/ros2/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&labelColor=grey)](https://www.tensorflow.org/) [![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv)](https://opencv.org/) 
+
+<!--
+[![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros)](https://index.ros.org/doc/ros2/)
+-->
+
 
 </div>
 
