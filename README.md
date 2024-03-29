@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### 🧠나의 스킬 셋
+### 🧠My Skills
 
 <br>
 
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-### 🎓교육 및 학력사항
+### 🎓Education and Degrees
 
 <br>
 
@@ -63,11 +63,12 @@ Here are some ideas to get you started:
 
 ---
 
-#### 📖논문연구
+#### 📖Research
 
-##### 석사논문: [Optimal sensor placement for everyday motion tracking of a neurological patient](/assets/dissertation_KCL.pdf)
+##### [Optimal sensor placement for everyday motion tracking of a neurological patient](/assets/dissertation_KCL.pdf)
 
-머신러닝 및 수학적 방법론을 사용하여 파킨슨, 알츠하이머 등 신경질환 환자용 의료기기의 최적화  
+Optimization of medical devices for patients with neurological disorders such as Parkinson's and Alzheimer's using machine learning and mathematical methodologies.
+
 
 ![React](https://img.shields.io/badge/Tag_:-gray?style=flat)
 <img src="https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=3776AB"/>
@@ -85,9 +86,9 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/Medical_device-f39c12?style=flat)
 
 
-##### 학사논문: [Alternative high-power transmission technology using Gas Insulated Transmission Line (GIL)](/assets/dissertation_UOM.pdf)
+##### [Alternative high-power transmission technology using Gas Insulated Transmission Line (GIL)](/assets/dissertation_UOM.pdf)
 
-해상풍력발전용 초장거리/초고압 가스절연 송전선 시뮬레이터 제작 및 경제성에 따른 유효성 검사
+Development of a simulator for ultra long-distance/high-voltage gas-insulated transmission lines for offshore wind power generation and validation of its effectiveness based on economic viability.
 
 ![React](https://img.shields.io/badge/Tag_:-gray?style=flat)
 ![React](https://img.shields.io/badge/Transmisiion_line-f39c12?style=flat)
@@ -97,7 +98,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Siemens-yellow?style=flat&logo=siemens&logoColor=009999"/>
 <img src="https://img.shields.io/badge/National_Grid-black?style=flat&logo=nationalgrid&logoColor=#00148C"/>
 
-###### [논문 관련 포스터 입니다.](/assets/poster_UOM.pdf)
+###### [Poster for GIL research](/assets/poster_UOM.pdf)
 ---
 
 
