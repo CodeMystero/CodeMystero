@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&height=180&color=gradient&text=CodeMystero%20&desc=프로젝트저장소&descAlign=63&fontSize=60&descAlignY=68)
+![header](https://capsule-render.vercel.app/api?type=rounded&height=180&color=gradient&text=CodeMystero%20&desc=ProjectSnippets&descAlign=63&fontSize=60&descAlignY=68)
 
 </div>
 
